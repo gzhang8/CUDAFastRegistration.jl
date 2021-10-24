@@ -1,0 +1,6 @@
+.idea/
+*.so
+*.ply
+*.jld
+Manifest.toml
+.vscode
